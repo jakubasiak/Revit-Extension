@@ -1,0 +1,23 @@
+C:\Users\kuba9195\Downloads\VS\kuba9195\KubaAddIn\obj\Debug\AddParametersForm.baml
+C:\Users\kuba9195\Downloads\VS\kuba9195\KubaAddIn\obj\Debug\AddParametersForm.g.cs
+C:\Users\kuba9195\Downloads\VS\kuba9195\KubaAddIn\obj\Debug\KubaAddIn_MarkupCompile.cache
+C:\Users\kuba9195\Downloads\VS\kuba9195\KubaAddIn\obj\Debug\KubaAddIn.g.resources
+C:\Users\kuba9195\Downloads\VS\kuba9195\KubaAddIn\bin\Debug\KubaAddIn.dll
+C:\Users\kuba9195\Downloads\VS\kuba9195\KubaAddIn\bin\Debug\KubaAddIn.pdb
+C:\Users\kuba9195\Downloads\VS\kuba9195\KubaAddIn\obj\Debug\KubaAddIn.dll
+C:\Users\kuba9195\Downloads\VS\kuba9195\KubaAddIn\obj\Debug\KubaAddIn.pdb
+C:\Users\kuba9195\Downloads\VS\kuba9195\KubaAddIn\bin\Debug\icon.png
+C:\Users\kuba9195\Downloads\VS\kuba9195\KubaAddIn\obj\Debug\KubaAddIn.Properties.Resources.resources
+C:\Users\kuba9195\Downloads\VS\kuba9195\KubaAddIn\obj\Debug\KubaAddIn.csproj.GenerateResource.Cache
+F:\Z PROCHEMu\VS\kuba9195\KubaAddIn\obj\Debug\KubaAddIn.csprojResolveAssemblyReference.cache
+F:\Z PROCHEMu\VS\kuba9195\KubaAddIn\obj\Debug\AddParametersForm.baml
+F:\Z PROCHEMu\VS\kuba9195\KubaAddIn\obj\Debug\AddParametersForm.g.cs
+F:\Z PROCHEMu\VS\kuba9195\KubaAddIn\obj\Debug\KubaAddIn_MarkupCompile.cache
+F:\Z PROCHEMu\VS\kuba9195\KubaAddIn\obj\Debug\KubaAddIn.g.resources
+F:\Z PROCHEMu\VS\kuba9195\KubaAddIn\obj\Debug\KubaAddIn.Properties.Resources.resources
+F:\Z PROCHEMu\VS\kuba9195\KubaAddIn\obj\Debug\KubaAddIn.csproj.GenerateResource.Cache
+F:\Z PROCHEMu\VS\kuba9195\KubaAddIn\obj\Debug\KubaAddIn.dll
+F:\Z PROCHEMu\VS\kuba9195\KubaAddIn\obj\Debug\KubaAddIn.pdb
+F:\Z PROCHEMu\VS\kuba9195\KubaAddIn\bin\Debug\icon.png
+F:\Z PROCHEMu\VS\kuba9195\KubaAddIn\bin\Debug\KubaAddIn.dll
+F:\Z PROCHEMu\VS\kuba9195\KubaAddIn\bin\Debug\KubaAddIn.pdb

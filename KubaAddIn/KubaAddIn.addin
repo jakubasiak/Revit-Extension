@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Dodaj parametry współdzielone</Text>
+    <Description>Dodaje parametry współdzielone do istniejących instancji klas</Description>
+    <Assembly>KubaAddIn.dll</Assembly>
+    <FullClassName>kuba9195.Command</FullClassName>
+    <ClientId>7ebd1a01-0404-4083-b6fd-106c441acb51</ClientId>
+    <VendorId>KK</VendorId>
+    <VendorDescription>k1</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application KubaAddIn</Name>
+    <Assembly>KubaAddIn.dll</Assembly>
+    <FullClassName>KubaAddIn.App</FullClassName>
+    <ClientId>51ffd7e7-9a04-4fc4-a22a-59bb866dd37d</ClientId>
+    <VendorId>KK</VendorId>
+    <VendorDescription>k2</VendorDescription>
+  </AddIn>
+</RevitAddIns>
